@@ -1,0 +1,17 @@
+#foto{
+ float: right;
+ border: solid black 2px;
+
+}
+
+
+body{
+	font-family: 'Chilanka', cursive;
+
+
+	background-color: lightblue;
+    
+    width: 900px;
+    margin: 0 auto;	
+
+
